@@ -77,4 +77,4 @@ Alle Daten werden lokal im Raycast `LocalStorage` gespeichert. Es werden keine D
 
 ## Autor
 
-**wdeu** · Lizenz: MIT
+**Werner Deuermeier** · Lizenz: MIT
